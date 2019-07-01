@@ -1,0 +1,93 @@
+body {
+	background-image: url("paintsplatterbg.jpeg");
+	background-repeat: no-repeat;
+}
+
+#area1 {
+	width: 800px;
+	height: 400px;
+	background-image: url("paintsplatter.png");
+	background-size: 500px 200px;
+	background-repeat: no-repeat;
+}
+
+#area2 {
+	width: 350px;
+	height: 35px;
+	background-color: white;
+	font-family: Arial;
+	font-size: 24px;
+	font-weight: bold;
+	padding: 10px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: turquoise;
+	display: none;
+}
+
+#area3 {
+	width: 360px;
+	height: 80px;
+	background-color: white;
+	padding: 25px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: turquoise;
+	display: none;
+}
+
+#area4 {
+	display: none;
+}
+
+#area5 {
+	display: none;
+}
+
+#area6 {
+	display: none;
+}
+#starryNight {
+	display: none;
+}
+
+#david {
+	display: none;
+}
+
+#picassopic {
+	display: none;
+}
+
+#goghInfo {
+	width: 700px;
+	height: 160px;
+	background-color: white;
+	padding: 25px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: turquoise;
+	display: none;
+}
+
+#michelangeloInfo {
+	width: 700px;
+	height: 260px;
+	background-color: white;
+	padding: 25px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: turquoise;
+	display: none;
+}
+
+#picassoInfo {
+	width: 700px;
+	height: 200px;
+	background-color: white;
+	padding: 25px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: turquoise;
+	display: none;
+}
